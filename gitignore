@@ -1,0 +1,64 @@
+# ============================
+# Visual Studio C++ Project
+# ============================
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+ipch/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.exp
+*.lib
+*.exe
+*.dll
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+*.vcxproj.user
+
+# IntelliSense / Database
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Logs / Temp
+*.log
+*.tmp
+*.cache
+
+# Test results
+TestResult/
+*.coverage
+*.coveragexml
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Others
+Generated\ Files/
+*.dbmdl
