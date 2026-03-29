@@ -32,6 +32,7 @@ ipch/
 *.suo
 *.rsuser
 *.vcxproj.user
+*.vcxproj.filters
 
 # IntelliSense / Database
 *.opendb

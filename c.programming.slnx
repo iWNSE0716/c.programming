@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CH02_VAR/CH02_VAR.vcxproj" Id="391fe41e-e09b-4272-8bc2-0989c4b374f9" />
+  <Project Path="CH03_OPERATOR/CH03_OPERATOR.vcxproj" Id="1e3666ea-1249-43b3-a382-7d8e369d53cd" />
+  <Project Path="CH04_CONDITION/CH04_CONDITION.vcxproj" Id="bac4803b-94ee-4338-a8dd-5ffd3d6102e5" />
+</Solution>
