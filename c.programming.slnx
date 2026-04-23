@@ -7,4 +7,6 @@
   <Project Path="CH03_OPERATOR/CH03_OPERATOR.vcxproj" Id="1e3666ea-1249-43b3-a382-7d8e369d53cd" />
   <Project Path="CH04_CONDITION/CH04_CONDITION.vcxproj" Id="bac4803b-94ee-4338-a8dd-5ffd3d6102e5" />
   <Project Path="CH05_loop/CH05_loop.vcxproj" Id="369893a8-6a03-441a-a46e-8394316aeab2" />
+  <Project Path="ch06_function/ch06_function.vcxproj" Id="0dbde6d0-8a6e-4264-83a4-f896c9ed6254" />
+  <Project Path="ch07_array/ch07_array.vcxproj" Id="a8e75fda-d1f8-4f11-8926-87d47554f532" />
 </Solution>
