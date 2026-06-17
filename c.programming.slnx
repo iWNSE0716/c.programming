@@ -9,4 +9,11 @@
   <Project Path="CH05_loop/CH05_loop.vcxproj" Id="369893a8-6a03-441a-a46e-8394316aeab2" />
   <Project Path="ch06_function/ch06_function.vcxproj" Id="0dbde6d0-8a6e-4264-83a4-f896c9ed6254" />
   <Project Path="ch07_array/ch07_array.vcxproj" Id="a8e75fda-d1f8-4f11-8926-87d47554f532" />
+  <Project Path="CH08_POINTER/CH08_POINTER.vcxproj" Id="49b4560a-9db8-4f76-b92f-b53ab870d5e4" />
+  <Project Path="CH11_POINTER2/CH11_POINTER2.vcxproj" Id="02762dbe-1cf4-4c14-bee8-9a7f5dcbb5c3" />
+  <Project Path="CH12_STRUCT/CH12_STRUCT.vcxproj" Id="1319f24a-4b5a-4e8f-8749-60aded960aa6" />
+  <Project Path="CH13_FILE/CH13_FILE.vcxproj" Id="24687df5-864e-472b-9d82-051ae8e4410d" />
+  <Project Path="CH14_DYNAMIC/CH14_DYNAMIC.vcxproj" Id="aed07cb4-8955-44d2-8391-87206d2eafe8" />
+  <Project Path="CH15_MACRO/CH15_MACRO.vcxproj" Id="f8dce01a-b975-469d-bd31-37400620c7dc" />
+  <Project Path="test/test.vcxproj" Id="36dd7f2e-d57e-4a24-8441-c3dc8df90507" />
 </Solution>
