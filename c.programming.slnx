@@ -15,5 +15,6 @@
   <Project Path="CH13_FILE/CH13_FILE.vcxproj" Id="24687df5-864e-472b-9d82-051ae8e4410d" />
   <Project Path="CH14_DYNAMIC/CH14_DYNAMIC.vcxproj" Id="aed07cb4-8955-44d2-8391-87206d2eafe8" />
   <Project Path="CH15_MACRO/CH15_MACRO.vcxproj" Id="f8dce01a-b975-469d-bd31-37400620c7dc" />
+  <Project Path="OPEN_BOOK/OPEN_BOOK.vcxproj" Id="703fc975-4dc3-40b0-890c-85330db0919a" />
   <Project Path="test/test.vcxproj" Id="36dd7f2e-d57e-4a24-8441-c3dc8df90507" />
 </Solution>
